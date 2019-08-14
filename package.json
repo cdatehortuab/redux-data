@@ -1,0 +1,42 @@
+{
+  "name": "redux-data",
+  "version": "0.0.0",
+  "description": "An easy and ordered way to manage redux store data",
+  "repository": "github:cdatehortuab/redux-data",
+  "bugs": "https://github.com/cdatehortuab/redux-data/issues",
+  "keywords": [
+    "redux",
+    "reducer",
+    "actions",
+    "state",
+    "store",
+    "data",
+    "immutable",
+    "model",
+    "predictable",
+    "functional"
+  ],
+  "authors": [
+    "Cristian Atehortua <cristian25a32@gmail.com> (https://github.com/cdatehortuab)"
+  ],
+  "license": "MIT",
+  "private": false,
+  "main": "lib/redux-data.js",
+  "unpkg": "dist/redux-data.js",
+  "module": "es/redux-data.js",
+  "types": "types/index.d.ts",
+  "files": [
+    "dist",
+    "lib",
+    "es",
+    "src",
+    "types"
+  ],
+  "devDependencies": {
+    "lodash": "^4.17.15",
+    "rollup": "^1.19.4",
+    "rollup-plugin-terser": "^5.1.1",
+    "rollup-plugin-typescript2": "^0.22.1",
+    "typescript": "^3.5.3"
+  }
+}
