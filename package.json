@@ -1,5 +1,5 @@
 {
-  "name": "redux-data",
+  "name": "@cdatehortuab/redux-data",
   "version": "0.1.0",
   "description": "An easy and ordered way to manage redux store data",
   "repository": "github:cdatehortuab/redux-data",
